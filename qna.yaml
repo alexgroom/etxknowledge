@@ -1,0 +1,8 @@
+version: 3
+domain: Proof of Concepts
+created_by: alexgroom
+seed_examples:
+  # ...
+document_outline: Red Hat Generative AI Proof Of Concept Process Guidebook, guidelines for defining and creating a Red Hat presales AI activity
+document:
+  # ...
