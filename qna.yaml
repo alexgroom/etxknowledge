@@ -2,7 +2,23 @@ version: 3
 domain: Proof of Concepts
 created_by: alexgroom
 seed_examples:
-  # ...
+  - context: |
+     In order to capitalize on AI, Red Hat has introduced platform offerings focused on training, tuning, and inferencing foundation models. With many current and potential customers still exploring their own AI strategies, it is critical that Red Hat articulates and proves firsthand our AI Platform capabilities.
+     In 2025, Red Hat has set a company-wide goal to conduct 1,000 GenAI proof-of-concepts (PoCs) with customers. This document describes how to position, qualify, and document a PoC.
+questions_and_answers:
+  - question: |
+      Who from the account team is involved with a GenAI PoC
+    answer: |  
+      Positioning, qualifying, and documenting a GenAI PoC requires the collective efforts across the account team. 
+  - question: |
+      What must be demonstrated when conducting one of Red Hat's 1,000 PoCs
+    answer: |  
+      All GenAI PoCs conducted must demonstrate Red Hat's unique capabilities around model training and/or inferencing.
+  - question: |
+      What should we be mindful of when dealing with customer's privacy and intellectual property (IP) within a Proof of concept (PoC)
+    answer: |  
+      As a commercial entity, we should be mindful of potential IP and privacy concerns from our customers when Red Hat uses their data, even if publicly available, without the customer's prior awareness. Various jurisdictions have rules on scraping data from the internet and customers may have their own policies and website terms on scraping data from their public webpages. Some customers may be wary of AI or the sources of data for the PoC, and we want our customers to focus on the PoC and benefit of the tools.
 document_outline: Red Hat Generative AI Proof Of Concept Process Guidebook, guidelines for defining and creating a Red Hat presales AI activity
 document:
-  # ...
+  repo: https://github.com/alexgroom/etxknowledge.git
+  patterns: knowledge.md

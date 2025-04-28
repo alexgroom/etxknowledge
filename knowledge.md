@@ -36,16 +36,9 @@ Table of Contents
 
 ## Purpose of this Document
 
-AI is a natural extension of our hybrid cloud strategy and provides new opportunities to increase revenue and market presence. In order to capitalize on AI, Red Hat has introduced platform offerings focused on training, tuning, and inferencing foundation models. With many current and potential customers still exploring their own AI strategies, it is critical that Red Hat articulates and proves fir sthand our AI Platform capabilities.
+AI is a natural extension of our hybrid cloud strategy and provides new opportunities to increase revenue and market presence. In order to capitalize on AI, Red Hat has introduced platform offerings focused on training, tuning, and inferencing foundation models. With many current and potential customers still exploring their own AI strategies, it is critical that Red Hat articulates and proves firsthand our AI Platform capabilities.
 
 In 2025, Red Hat has set a company-wide goal to conduct 1,000 GenAI proof-of-concepts (PoCs) with customers. This document describes how to position, qualify, and document a GenAI PoC.
-
-
-
-3
-
-
-
 
 ## Internal PoC Engagement Process
 
@@ -63,23 +56,12 @@ NOTE: You MUST complete Step 3 before creating a task in RHSC. See GenAI PoC Eng
 - ■ Success criteria
 - ■ Documentation
 - ● Step 3 - Request Technical SSA Support to Conduct PoC: Once you have done initial qualification and reviewed requirements for a GenAI PoC with your direct manager, it's time to engage the AI Specialists in your geo. Please submit a request using this Global Form. The form must be completed even if an AI SSA is involved with your customer. Note: All requests are reviewed by the AI Platform Leadership team and may be rejected if the proposed GenAI PoC is not in scope or if it is deemed the customer is not qualified.
-- ● Step 4 - AI SSA Assigned: After the AI Specialists in your geo have reviewed your submission, they will respond confirming whether the GenAI PoC request has been accepted or rejected. Their SLA is 3-5 business days. If the submission has been accepted, then an AI SSA will be assigned to conduct the GenAI PoC. Each Geo has a pool of AI SSAs who have
-
-4
-
-
-
-
-been trained to conduct GenAI PoCs..
+- ● Step 4 - AI SSA Assigned: After the AI Specialists in your geo have reviewed your submission, they will respond confirming whether the GenAI PoC request has been accepted or rejected. Their SLA is 3-5 business days. If the submission has been accepted, then an AI SSA will be assigned to conduct the GenAI PoC. Each Geo has a pool of AI SSAs who have been trained to conduct GenAI PoCs..
 
 - ● Step 5a - Conduct the GenAI PoC: Once an AI Specialist has confirmed that this is a qualified GenAI PoC opportunity, then the AI SSA conducts the GenAI PoC using the Technical Guidebook.
 - ● Step 5b - Document the GenAI PoC in RHSC: Once the GenAI PoC is initiated, it's time for the ASA to create a task in the Red Hat Sales Cloud (RHSC). The only way to get credit for a GenAI PoC is by documenting it in RHSC. For more information on the documentation process, please refer to the Documenting a GenAI PoC section of this document. Progress is monitored and updated using the task fields in RHSC.
 - ● Step 6 - Finalize GenAI PoC Documentation in RHSC: Once the GenAI PoC is complete, all documentation is updated and the RHSC task is closed. Tasks will be monitored for quality.
 - ● Step 7 - Conduct Handoff to Services: After the GenAI PoC has been conducted and documentation completed, engage with the Services team in your geo to conduct customer handoff.
-
-5
-
-
 
 
 ## GenAI PoC Engagement RACI
@@ -95,10 +77,6 @@ The internal engagement process includes several milestones. For more informatio
 | Document the  GenAI PoC in  RHSC                | AE                              | ASA                              | AI SSA                            | TSM                          |
 | Finalize GenAI  PoC  Documentation  in RHSC     | AE                              | ASA                              | AI SSA                            | TSM                          |
 | Conduct  Handoff to  Services                   | AE, ASA, TSM                    | AE, ASA, TSM                     | AI SSP                            | TSM                          |
-
-6
-
-
 
 
 ## GenAI PoC Requirements
